@@ -8,10 +8,10 @@ Dedicated software engineer with 11 years of programming experience, starting at
 ## Experience
 
 ### Nommo
-**Full Stack Web Development Intern** | *May 2025 - Nov 2025*
+**frontend Web & mobile application Development Intern** | *May 2025 - Nov 2025*
 - Contributing to the development of Morocco's first stock market platform
 - Building frontend applications with Next.js and React
-- Implementing backend services using Nest.js
+- Building mobile application with React native
 - Participating in the complete software development lifecycle of a fintech product
 
 ### SAMMA.app
